@@ -2,7 +2,7 @@
 Data Acquisition Systems Course (ES879) Project
 
 ## 📋 Description
-The program analyzes and compares signals from of a rotating system that were contaminated by two different failures, in order to identify the type of these failures. In addition, the objective is to apply filters on these signals in order to eliminate unwanted content.
+The projet analyzes and compares signals from of a rotating system that were contaminated by two different failures, in order to identify the type of these failures. In addition, the objective is to apply filters on these signals in order to eliminate unwanted content.
 
 ## 🛠️ Software used
 
@@ -10,9 +10,9 @@ This project was implemented in [MATLAB](https://www.mathworks.com/products/matl
 
 ## ✒️ Authors
 
-- Lara FALQUETO BUSATO:
-    - [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/matsano)
+- Lara FALQUETO BUSATO
+
 - Matheus SANTOS SANO:
     - [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/matsano)
 
-We would like to thank our professor Mr. Tiago Henrique Machado for the knowledge taught in Data Acquisition Systems cours at [UNICAMP](https://www.unicamp.br/unicamp/) which were essential for the realization of this project.
+We would like to thank our professor Mr. Tiago Henrique Machado for the knowledge taught in Data Acquisition Systems course at [UNICAMP](https://www.unicamp.br/unicamp/) which were essential for the realization of this project.
