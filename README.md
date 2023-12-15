@@ -1,5 +1,5 @@
 # Data-Acquisition-Systems
-Data Acquisition Systems Course (ES879) Project
+Data Acquisition Systems Course Project
 
 ## 📋 Description
 The projet analyzes and compares signals from of a rotating system that were contaminated by two different failures, in order to identify the type of these failures. In addition, the objective is to apply filters on these signals in order to eliminate unwanted content.
